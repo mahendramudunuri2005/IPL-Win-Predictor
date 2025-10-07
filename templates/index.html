@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPL Prediction | AI Model</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <header>
+        <h1>IPL Win Probability Predictor</h1>
+    </header>
+
+    <main>
+        <form action="/predict" method="POST">
+            <label for="batting_team">Batting Team:</label>
+            <select name="batting_team">
+                {% for team in teams %}
+                <option value="{{ team }}">{{ team }}</option>
+                {% endfor %}
+            </select>
+
+            <label for="bowling_team">Bowling Team:</label>
+            <select name="bowling_team">
+                {% for team in teams %}
+                <option value="{{ team }}">{{ team }}</option>
+                {% endfor %}
+            </select>
+
+            <label for="selected_city">Select Host City:</label>
+            <select name="selected_city">
+                {% for city in cities %}
+                <option value="{{ city }}">{{ city }}</option>
+                {% endfor %}
+            </select>
+
+            <label for="target">Target Runs:</label>
+            <input type="number" name="target" required>
+
+            <label for="score">Current Score:</label>
+            <input type="number" name="score" required>
+
+            <label for="overs">Overs Completed:</label>
+            <input type="number" name="overs" step="0.1" required>
+
+            <label for="wickets_out">Wickets Out:</label>
+            <input type="number" name="wickets_out" required>
+
+            <button type="submit">Predict Win Probability</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>Powered by AI | IPL Predictions</p>
+    </footer>
+</body>
+</html>
