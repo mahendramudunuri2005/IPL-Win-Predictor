@@ -1,0 +1,212 @@
+match_id,season,batting_team,bowling_team,city,venue,target,score,overs,wickets_out,runs_left,balls_left,crr,rrr,winning_team
+1,2023,Mumbai Indians,Chennai Super Kings,Mumbai,Wankhede Stadium,180,120,15.2,5,60,28,7.89,12.86,Chennai Super Kings
+2,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore,M.Chinnaswamy Stadium,160,95,13.0,4,65,42,7.31,9.29,Kolkata Knight Riders
+3,2022,Delhi Capitals,Sunrisers Hyderabad,Delhi,Arun Jaitley Stadium,170,150,19.0,7,20,6,7.89,20.0,Delhi Capitals
+4,2021,Rajasthan Royals,Punjab Kings,Chandigarh,Mohali Stadium,165,80,12.0,3,85,48,6.67,10.63,Punjab Kings
+5,2023,Chennai Super Kings,Mumbai Indians,Chennai,MA Chidambaram Stadium,175,110,16.0,6,65,24,6.88,16.25,Mumbai Indians
+6,2022,Royal Challengers Bangalore,Delhi Capitals,Bangalore,M.Chinnaswamy Stadium,155,90,14.0,5,65,36,6.43,10.83,Delhi Capitals
+7,2021,Punjab Kings,Kolkata Knight Riders,Kolkata,Eden Gardens,145,100,15.0,3,45,30,6.67,9.0,Kolkata Knight Riders
+8,2023,Sunrisers Hyderabad,Delhi Capitals,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,190,130,17.0,4,60,18,7.65,20.0,Delhi Capitals
+9,2022,Mumbai Indians,Royal Challengers Bangalore,Mumbai,Wankhede Stadium,200,140,18.0,6,60,12,7.78,30.0,Royal Challengers Bangalore
+10,2021,Chennai Super Kings,Punjab Kings,Chennai,MA Chidambaram Stadium,165,145,19.5,8,20,3,7.38,40.0,Chennai Super Kings
+11,2023,Kolkata Knight Riders,Delhi Capitals,Bangalore,Eden Gardens,172,130,15.9,2,42,24,8.18,10.5,Delhi Capitals
+12,2023,Delhi Capitals,Chennai Super Kings,Hyderabad,Eden Gardens,210,206,13.9,1,4,36,14.82,0.67,Chennai Super Kings
+13,2023,Mumbai Indians,Royal Challengers Bangalore,Delhi,MA Chidambaram Stadium,158,128,14.1,8,30,35,9.08,5.14,Royal Challengers Bangalore
+14,2022,Punjab Kings,Royal Challengers Bangalore,Delhi,Mohali Stadium,150,33,12.1,4,117,47,2.73,14.94,Royal Challengers Bangalore
+15,2023,Chennai Super Kings,Punjab Kings,Kolkata,Mohali Stadium,209,179,8.9,7,30,66,20.11,2.73,Chennai Super Kings
+16,2023,Sunrisers Hyderabad,Punjab Kings,Chennai,Wankhede Stadium,152,51,12.0,3,101,48,4.25,12.62,Sunrisers Hyderabad
+17,2021,Kolkata Knight Riders,Chennai Super Kings,Chandigarh,Arun Jaitley Stadium,197,169,9.1,6,28,65,18.57,2.58,Chennai Super Kings
+18,2021,Chennai Super Kings,Kolkata Knight Riders,Mumbai,Mohali Stadium,174,63,14.3,8,111,34,4.41,19.59,Chennai Super Kings
+19,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Chandigarh,M.Chinnaswamy Stadium,194,122,18.5,3,72,9,6.59,48.0,Royal Challengers Bangalore
+20,2022,Delhi Capitals,Mumbai Indians,Kolkata,Rajiv Gandhi Intl. Cricket Stadium,212,177,18.4,5,35,9,9.62,23.33,Delhi Capitals
+21,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Mumbai,Rajiv Gandhi Intl. Cricket Stadium,209,179,12.8,1,30,43,13.98,4.19,Royal Challengers Bangalore
+22,2021,Delhi Capitals,Rajasthan Royals,Delhi,Mohali Stadium,141,71,10.1,6,70,59,7.03,7.12,Rajasthan Royals
+23,2022,Punjab Kings,Delhi Capitals,Bangalore,Mohali Stadium,219,88,13.5,2,131,39,6.52,20.15,Delhi Capitals
+24,2022,Chennai Super Kings,Mumbai Indians,Chennai,Rajiv Gandhi Intl. Cricket Stadium,198,11,10.6,6,187,56,1.04,20.04,Mumbai Indians
+25,2023,Rajasthan Royals,Punjab Kings,Delhi,Eden Gardens,194,13,6.3,8,181,82,2.06,13.24,Rajasthan Royals
+26,2023,Delhi Capitals,Kolkata Knight Riders,Delhi,M.Chinnaswamy Stadium,203,69,5.7,9,134,85,12.11,9.46,Delhi Capitals
+27,2023,Rajasthan Royals,Kolkata Knight Riders,Chennai,Wankhede Stadium,173,135,18.7,8,38,7,7.22,32.57,Kolkata Knight Riders
+28,2021,Delhi Capitals,Royal Challengers Bangalore,Chandigarh,Arun Jaitley Stadium,193,93,9.9,7,100,60,9.39,10.0,Royal Challengers Bangalore
+29,2022,Rajasthan Royals,Royal Challengers Bangalore,Hyderabad,Wankhede Stadium,178,28,14.3,3,150,34,1.96,26.47,Rajasthan Royals
+30,2023,Sunrisers Hyderabad,Chennai Super Kings,Chennai,Arun Jaitley Stadium,165,44,12.3,0,121,46,3.58,15.78,Chennai Super Kings
+31,2022,Punjab Kings,Mumbai Indians,Chennai,Rajiv Gandhi Intl. Cricket Stadium,196,150,12.1,2,46,47,12.4,5.87,Mumbai Indians
+32,2022,Punjab Kings,Sunrisers Hyderabad,Bangalore,Rajiv Gandhi Intl. Cricket Stadium,150,11,18.4,2,139,9,0.6,92.67,Punjab Kings
+33,2023,Kolkata Knight Riders,Punjab Kings,Chandigarh,Arun Jaitley Stadium,206,65,10.8,1,141,55,6.02,15.38,Kolkata Knight Riders
+34,2021,Kolkata Knight Riders,Mumbai Indians,Bangalore,MA Chidambaram Stadium,185,159,12.4,5,26,45,12.82,3.47,Kolkata Knight Riders
+35,2022,Chennai Super Kings,Delhi Capitals,Bangalore,MA Chidambaram Stadium,163,57,17.9,8,106,12,3.18,53.0,Delhi Capitals
+36,2023,Sunrisers Hyderabad,Punjab Kings,Delhi,MA Chidambaram Stadium,191,93,10.8,7,98,55,8.61,10.69,Punjab Kings
+37,2022,Rajasthan Royals,Kolkata Knight Riders,Chandigarh,Mohali Stadium,151,56,8.8,1,95,67,6.36,8.51,Kolkata Knight Riders
+38,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata,Mohali Stadium,156,77,17.2,5,79,16,4.48,29.62,Kolkata Knight Riders
+39,2021,Rajasthan Royals,Royal Challengers Bangalore,Chandigarh,Mohali Stadium,192,154,18.6,10,38,8,8.28,28.5,Royal Challengers Bangalore
+40,2022,Mumbai Indians,Kolkata Knight Riders,Delhi,Wankhede Stadium,215,143,19.4,0,72,3,7.37,144.0,Kolkata Knight Riders
+41,2022,Kolkata Knight Riders,Chennai Super Kings,Delhi,Arun Jaitley Stadium,158,110,19.0,2,48,6,5.79,48.0,Kolkata Knight Riders
+42,2021,Royal Challengers Bangalore,Chennai Super Kings,Delhi,MA Chidambaram Stadium,193,3,15.8,3,190,25,0.19,45.6,Chennai Super Kings
+43,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Chennai,Rajiv Gandhi Intl. Cricket Stadium,170,102,13.1,10,68,41,7.79,9.95,Sunrisers Hyderabad
+44,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore,Eden Gardens,145,18,14.4,3,127,33,1.25,23.09,Royal Challengers Bangalore
+45,2021,Royal Challengers Bangalore,Delhi Capitals,Hyderabad,Eden Gardens,163,17,8.1,6,146,71,2.1,12.34,Royal Challengers Bangalore
+46,2022,Royal Challengers Bangalore,Mumbai Indians,Bangalore,Arun Jaitley Stadium,142,71,14.8,1,71,31,4.8,13.74,Royal Challengers Bangalore
+47,2021,Delhi Capitals,Punjab Kings,Kolkata,M.Chinnaswamy Stadium,185,140,14.8,2,45,31,9.46,8.71,Delhi Capitals
+48,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Kolkata,M.Chinnaswamy Stadium,193,158,16.8,2,35,19,9.4,11.05,Royal Challengers Bangalore
+49,2021,Punjab Kings,Sunrisers Hyderabad,Hyderabad,Arun Jaitley Stadium,183,149,10.2,1,34,58,14.61,3.52,Punjab Kings
+50,2022,Punjab Kings,Chennai Super Kings,Bangalore,Wankhede Stadium,160,70,9.7,2,90,61,7.22,8.85,Punjab Kings
+51,2021,Mumbai Indians,Sunrisers Hyderabad,Mumbai,Wankhede Stadium,143,92,6.1,6,51,83,15.08,3.69,Sunrisers Hyderabad
+52,2023,Chennai Super Kings,Punjab Kings,Mumbai,Mohali Stadium,180,134,17.1,8,46,17,7.84,16.24,Punjab Kings
+53,2023,Kolkata Knight Riders,Punjab Kings,Chennai,Arun Jaitley Stadium,206,58,16.1,5,148,23,3.6,38.61,Punjab Kings
+54,2021,Sunrisers Hyderabad,Mumbai Indians,Mumbai,Wankhede Stadium,148,130,12.9,9,18,42,10.08,2.57,Sunrisers Hyderabad
+55,2023,Mumbai Indians,Kolkata Knight Riders,Chennai,Eden Gardens,171,7,12.3,10,164,46,0.57,21.39,Mumbai Indians
+56,2022,Mumbai Indians,Delhi Capitals,Mumbai,M.Chinnaswamy Stadium,184,106,13.9,7,78,36,7.63,13.0,Mumbai Indians
+57,2022,Chennai Super Kings,Delhi Capitals,Hyderabad,Wankhede Stadium,205,16,13.4,10,189,39,1.19,29.08,Chennai Super Kings
+58,2023,Delhi Capitals,Chennai Super Kings,Chennai,Eden Gardens,165,141,16.5,5,24,21,8.55,6.86,Chennai Super Kings
+59,2022,Delhi Capitals,Punjab Kings,Chandigarh,Eden Gardens,182,121,17.4,1,61,15,6.95,24.4,Punjab Kings
+60,2021,Rajasthan Royals,Chennai Super Kings,Bangalore,M.Chinnaswamy Stadium,166,15,5.7,2,151,85,2.63,10.66,Chennai Super Kings
+61,2022,Rajasthan Royals,Chennai Super Kings,Chandigarh,Rajiv Gandhi Intl. Cricket Stadium,152,103,5.1,6,49,89,20.2,3.3,Rajasthan Royals
+62,2023,Delhi Capitals,Royal Challengers Bangalore,Chandigarh,Mohali Stadium,177,17,10.8,0,160,55,1.57,17.45,Royal Challengers Bangalore
+63,2021,Delhi Capitals,Royal Challengers Bangalore,Hyderabad,Wankhede Stadium,163,123,7.5,2,40,75,16.4,3.2,Delhi Capitals
+64,2022,Royal Challengers Bangalore,Delhi Capitals,Chandigarh,MA Chidambaram Stadium,215,100,11.6,3,115,50,8.62,13.8,Delhi Capitals
+65,2023,Sunrisers Hyderabad,Delhi Capitals,Kolkata,Rajiv Gandhi Intl. Cricket Stadium,142,47,13.3,0,95,40,3.53,14.25,Delhi Capitals
+66,2021,Sunrisers Hyderabad,Mumbai Indians,Chennai,Mohali Stadium,212,14,11.5,2,198,51,1.22,23.29,Sunrisers Hyderabad
+67,2022,Punjab Kings,Mumbai Indians,Chennai,Wankhede Stadium,203,99,6.3,4,104,82,15.71,7.61,Punjab Kings
+68,2021,Sunrisers Hyderabad,Rajasthan Royals,Hyderabad,Wankhede Stadium,210,19,5.8,5,191,85,3.28,13.48,Sunrisers Hyderabad
+69,2023,Sunrisers Hyderabad,Punjab Kings,Chandigarh,Rajiv Gandhi Intl. Cricket Stadium,203,21,13.7,10,182,37,1.53,29.51,Punjab Kings
+70,2023,Sunrisers Hyderabad,Delhi Capitals,Hyderabad,MA Chidambaram Stadium,151,54,7.7,3,97,73,7.01,7.97,Delhi Capitals
+71,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Bangalore,Mohali Stadium,176,153,6.0,8,23,84,25.5,1.64,Royal Challengers Bangalore
+72,2022,Delhi Capitals,Mumbai Indians,Delhi,MA Chidambaram Stadium,209,21,10.2,9,188,58,2.06,19.45,Mumbai Indians
+73,2023,Delhi Capitals,Kolkata Knight Riders,Bangalore,Rajiv Gandhi Intl. Cricket Stadium,204,37,6.2,6,167,82,5.97,12.22,Delhi Capitals
+74,2022,Punjab Kings,Rajasthan Royals,Chandigarh,Mohali Stadium,217,122,11.4,5,95,51,10.7,11.18,Rajasthan Royals
+75,2022,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata,Eden Gardens,190,122,12.7,1,68,43,9.61,9.49,Sunrisers Hyderabad
+76,2021,Punjab Kings,Rajasthan Royals,Chandigarh,Wankhede Stadium,195,177,9.8,2,18,61,18.06,1.77,Punjab Kings
+77,2022,Mumbai Indians,Rajasthan Royals,Mumbai,Arun Jaitley Stadium,209,208,18.3,4,1,10,11.37,0.6,Mumbai Indians
+78,2021,Delhi Capitals,Punjab Kings,Kolkata,Eden Gardens,213,120,17.3,5,93,16,6.94,34.88,Delhi Capitals
+79,2023,Rajasthan Royals,Mumbai Indians,Kolkata,Rajiv Gandhi Intl. Cricket Stadium,183,52,8.0,1,131,72,6.5,10.92,Rajasthan Royals
+80,2023,Mumbai Indians,Rajasthan Royals,Chandigarh,Arun Jaitley Stadium,206,29,7.6,7,177,74,3.82,14.35,Mumbai Indians
+81,2023,Sunrisers Hyderabad,Chennai Super Kings,Chandigarh,Arun Jaitley Stadium,214,149,19.7,3,65,1,7.56,390.0,Chennai Super Kings
+82,2022,Delhi Capitals,Punjab Kings,Chandigarh,MA Chidambaram Stadium,187,78,5.2,9,109,88,15.0,7.43,Delhi Capitals
+83,2021,Delhi Capitals,Punjab Kings,Bangalore,M.Chinnaswamy Stadium,209,120,7.9,0,89,72,15.19,7.42,Punjab Kings
+84,2022,Sunrisers Hyderabad,Delhi Capitals,Bangalore,Eden Gardens,145,30,15.3,4,115,28,1.96,24.64,Delhi Capitals
+85,2022,Mumbai Indians,Chennai Super Kings,Mumbai,MA Chidambaram Stadium,145,26,16.2,2,119,22,1.6,32.45,Mumbai Indians
+86,2023,Chennai Super Kings,Punjab Kings,Bangalore,M.Chinnaswamy Stadium,210,61,10.3,10,149,58,5.92,15.41,Punjab Kings
+87,2021,Delhi Capitals,Sunrisers Hyderabad,Hyderabad,Eden Gardens,178,69,5.9,0,109,84,11.69,7.79,Sunrisers Hyderabad
+88,2021,Mumbai Indians,Sunrisers Hyderabad,Chennai,Arun Jaitley Stadium,204,36,8.7,0,168,67,4.14,15.04,Sunrisers Hyderabad
+89,2022,Sunrisers Hyderabad,Delhi Capitals,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,211,204,17.3,2,7,16,11.79,2.62,Delhi Capitals
+90,2021,Kolkata Knight Riders,Royal Challengers Bangalore,Chandigarh,MA Chidambaram Stadium,148,75,8.7,5,73,67,8.62,6.54,Kolkata Knight Riders
+91,2021,Rajasthan Royals,Punjab Kings,Mumbai,Rajiv Gandhi Intl. Cricket Stadium,186,168,6.7,9,18,79,25.07,1.37,Rajasthan Royals
+92,2021,Mumbai Indians,Royal Challengers Bangalore,Chennai,Wankhede Stadium,150,139,14.8,1,11,31,9.39,2.13,Mumbai Indians
+93,2021,Delhi Capitals,Mumbai Indians,Chandigarh,MA Chidambaram Stadium,202,72,18.1,9,130,11,3.98,70.91,Mumbai Indians
+94,2021,Rajasthan Royals,Sunrisers Hyderabad,Chandigarh,MA Chidambaram Stadium,182,98,15.3,9,84,28,6.41,18.0,Rajasthan Royals
+95,2021,Rajasthan Royals,Punjab Kings,Delhi,Arun Jaitley Stadium,172,87,9.0,9,85,66,9.67,7.73,Rajasthan Royals
+96,2023,Kolkata Knight Riders,Chennai Super Kings,Mumbai,MA Chidambaram Stadium,161,9,10.1,3,152,59,0.89,15.46,Kolkata Knight Riders
+97,2022,Royal Challengers Bangalore,Chennai Super Kings,Chennai,Wankhede Stadium,211,186,6.3,7,25,82,29.52,1.83,Royal Challengers Bangalore
+98,2021,Mumbai Indians,Rajasthan Royals,Kolkata,Mohali Stadium,211,126,8.7,2,85,67,14.48,7.61,Mumbai Indians
+99,2021,Sunrisers Hyderabad,Delhi Capitals,Chandigarh,Mohali Stadium,199,142,7.7,9,57,73,18.44,4.68,Sunrisers Hyderabad
+100,2023,Sunrisers Hyderabad,Mumbai Indians,Chandigarh,MA Chidambaram Stadium,210,110,7.6,6,100,74,14.47,8.11,Sunrisers Hyderabad
+101,2022,Kolkata Knight Riders,Rajasthan Royals,Delhi,MA Chidambaram Stadium,150,109,18.3,10,41,10,5.96,24.6,Kolkata Knight Riders
+102,2021,Punjab Kings,Mumbai Indians,Chennai,MA Chidambaram Stadium,172,43,7.3,1,129,76,5.89,10.18,Mumbai Indians
+103,2022,Mumbai Indians,Punjab Kings,Chennai,Mohali Stadium,152,124,12.2,7,28,46,10.16,3.65,Punjab Kings
+104,2021,Delhi Capitals,Sunrisers Hyderabad,Chennai,Rajiv Gandhi Intl. Cricket Stadium,161,5,6.3,0,156,82,0.79,11.41,Delhi Capitals
+105,2022,Kolkata Knight Riders,Delhi Capitals,Kolkata,Rajiv Gandhi Intl. Cricket Stadium,216,23,7.6,5,193,74,3.03,15.65,Kolkata Knight Riders
+106,2021,Rajasthan Royals,Chennai Super Kings,Hyderabad,M.Chinnaswamy Stadium,151,136,8.3,10,15,70,16.39,1.29,Rajasthan Royals
+107,2021,Rajasthan Royals,Chennai Super Kings,Bangalore,Rajiv Gandhi Intl. Cricket Stadium,181,145,5.2,10,36,88,27.88,2.45,Chennai Super Kings
+108,2023,Punjab Kings,Delhi Capitals,Hyderabad,M.Chinnaswamy Stadium,213,72,5.1,0,141,89,14.12,9.51,Delhi Capitals
+109,2023,Punjab Kings,Mumbai Indians,Hyderabad,M.Chinnaswamy Stadium,191,111,11.8,3,80,49,9.41,9.8,Punjab Kings
+110,2022,Chennai Super Kings,Kolkata Knight Riders,Bangalore,Wankhede Stadium,209,7,11.8,6,202,49,0.59,24.73,Chennai Super Kings
+111,2022,Mumbai Indians,Kolkata Knight Riders,Delhi,Rajiv Gandhi Intl. Cricket Stadium,160,55,15.1,3,105,29,3.64,21.72,Kolkata Knight Riders
+112,2021,Punjab Kings,Kolkata Knight Riders,Chennai,Wankhede Stadium,189,31,15.0,8,158,30,2.07,31.6,Punjab Kings
+113,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Hyderabad,Mohali Stadium,163,162,13.4,1,1,39,12.09,0.15,Royal Challengers Bangalore
+114,2021,Chennai Super Kings,Kolkata Knight Riders,Chennai,Mohali Stadium,167,151,8.7,8,16,67,17.36,1.43,Chennai Super Kings
+115,2021,Delhi Capitals,Rajasthan Royals,Mumbai,M.Chinnaswamy Stadium,182,15,6.5,1,167,81,2.31,12.37,Delhi Capitals
+116,2023,Royal Challengers Bangalore,Rajasthan Royals,Mumbai,Wankhede Stadium,170,156,19.3,2,14,4,8.08,21.0,Royal Challengers Bangalore
+117,2022,Delhi Capitals,Mumbai Indians,Hyderabad,MA Chidambaram Stadium,161,69,16.5,10,92,21,4.18,26.29,Mumbai Indians
+118,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Hyderabad,MA Chidambaram Stadium,163,111,8.0,7,52,72,13.88,4.33,Kolkata Knight Riders
+119,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Bangalore,Rajiv Gandhi Intl. Cricket Stadium,184,174,11.0,2,10,54,15.82,1.11,Royal Challengers Bangalore
+120,2023,Mumbai Indians,Delhi Capitals,Chandigarh,M.Chinnaswamy Stadium,155,93,5.9,8,62,84,15.76,4.43,Delhi Capitals
+121,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Mumbai,Rajiv Gandhi Intl. Cricket Stadium,145,112,19.7,6,33,1,5.69,198.0,Sunrisers Hyderabad
+122,2023,Rajasthan Royals,Sunrisers Hyderabad,Mumbai,MA Chidambaram Stadium,202,112,15.7,1,90,25,7.13,21.6,Rajasthan Royals
+123,2023,Punjab Kings,Chennai Super Kings,Kolkata,Arun Jaitley Stadium,215,10,14.6,0,205,32,0.68,38.44,Punjab Kings
+124,2023,Royal Challengers Bangalore,Delhi Capitals,Chennai,Wankhede Stadium,142,17,14.0,2,125,36,1.21,20.83,Delhi Capitals
+125,2022,Royal Challengers Bangalore,Kolkata Knight Riders,Chennai,Wankhede Stadium,171,58,12.3,1,113,46,4.72,14.74,Royal Challengers Bangalore
+126,2022,Royal Challengers Bangalore,Chennai Super Kings,Delhi,M.Chinnaswamy Stadium,177,91,17.0,3,86,18,5.35,28.67,Royal Challengers Bangalore
+127,2022,Delhi Capitals,Chennai Super Kings,Kolkata,M.Chinnaswamy Stadium,212,25,6.7,7,187,79,3.73,14.2,Delhi Capitals
+128,2022,Sunrisers Hyderabad,Delhi Capitals,Delhi,MA Chidambaram Stadium,143,142,7.4,1,1,75,19.19,0.08,Delhi Capitals
+129,2022,Delhi Capitals,Chennai Super Kings,Hyderabad,Arun Jaitley Stadium,217,208,5.3,5,9,88,39.25,0.61,Chennai Super Kings
+130,2023,Punjab Kings,Mumbai Indians,Mumbai,Eden Gardens,174,167,5.9,2,7,84,28.31,0.5,Mumbai Indians
+131,2023,Royal Challengers Bangalore,Chennai Super Kings,Bangalore,Rajiv Gandhi Intl. Cricket Stadium,146,39,14.9,10,107,30,2.62,21.4,Royal Challengers Bangalore
+132,2022,Rajasthan Royals,Punjab Kings,Hyderabad,Wankhede Stadium,174,169,8.6,0,5,68,19.65,0.44,Punjab Kings
+133,2021,Delhi Capitals,Kolkata Knight Riders,Bangalore,Wankhede Stadium,154,38,13.7,3,116,37,2.77,18.81,Delhi Capitals
+134,2023,Sunrisers Hyderabad,Chennai Super Kings,Hyderabad,M.Chinnaswamy Stadium,219,136,15.3,4,83,28,8.89,17.79,Chennai Super Kings
+135,2022,Kolkata Knight Riders,Chennai Super Kings,Chandigarh,Rajiv Gandhi Intl. Cricket Stadium,218,181,11.3,6,37,52,16.02,4.27,Chennai Super Kings
+136,2022,Delhi Capitals,Rajasthan Royals,Delhi,Eden Gardens,220,167,19.4,5,53,3,8.61,106.0,Rajasthan Royals
+137,2022,Sunrisers Hyderabad,Mumbai Indians,Bangalore,Mohali Stadium,157,144,13.0,3,13,42,11.08,1.86,Mumbai Indians
+138,2023,Chennai Super Kings,Punjab Kings,Bangalore,MA Chidambaram Stadium,209,105,9.2,2,104,64,11.41,9.75,Punjab Kings
+139,2022,Sunrisers Hyderabad,Kolkata Knight Riders,Bangalore,M.Chinnaswamy Stadium,140,134,19.0,10,6,6,7.05,6.0,Kolkata Knight Riders
+140,2023,Royal Challengers Bangalore,Mumbai Indians,Delhi,Eden Gardens,148,128,14.4,7,20,33,8.89,3.64,Mumbai Indians
+141,2022,Royal Challengers Bangalore,Rajasthan Royals,Mumbai,Eden Gardens,212,44,17.3,4,168,16,2.54,63.0,Royal Challengers Bangalore
+142,2022,Chennai Super Kings,Delhi Capitals,Hyderabad,Mohali Stadium,214,128,6.3,0,86,82,20.32,6.29,Chennai Super Kings
+143,2022,Sunrisers Hyderabad,Mumbai Indians,Hyderabad,M.Chinnaswamy Stadium,211,72,8.3,1,139,70,8.67,11.91,Mumbai Indians
+144,2023,Royal Challengers Bangalore,Rajasthan Royals,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,193,80,16.7,9,113,19,4.79,35.68,Rajasthan Royals
+145,2021,Sunrisers Hyderabad,Delhi Capitals,Chandigarh,Mohali Stadium,213,170,5.9,4,43,84,28.81,3.07,Delhi Capitals
+146,2022,Punjab Kings,Royal Challengers Bangalore,Hyderabad,MA Chidambaram Stadium,178,78,5.4,6,100,87,14.44,6.9,Royal Challengers Bangalore
+147,2021,Chennai Super Kings,Sunrisers Hyderabad,Chandigarh,Rajiv Gandhi Intl. Cricket Stadium,162,0,18.7,3,162,7,0.0,138.86,Sunrisers Hyderabad
+148,2023,Sunrisers Hyderabad,Punjab Kings,Delhi,M.Chinnaswamy Stadium,194,60,16.2,2,134,22,3.7,36.55,Punjab Kings
+149,2021,Delhi Capitals,Mumbai Indians,Bangalore,Rajiv Gandhi Intl. Cricket Stadium,164,91,14.3,7,73,34,6.36,12.88,Delhi Capitals
+150,2023,Mumbai Indians,Sunrisers Hyderabad,Chennai,Rajiv Gandhi Intl. Cricket Stadium,215,75,5.4,8,140,87,13.89,9.66,Mumbai Indians
+151,2023,Kolkata Knight Riders,Sunrisers Hyderabad,Bangalore,Rajiv Gandhi Intl. Cricket Stadium,145,79,10.1,5,66,59,7.82,6.71,Kolkata Knight Riders
+152,2023,Chennai Super Kings,Rajasthan Royals,Chandigarh,Wankhede Stadium,220,109,13.1,8,111,41,8.32,16.24,Chennai Super Kings
+153,2021,Delhi Capitals,Kolkata Knight Riders,Delhi,Mohali Stadium,186,13,19.9,5,173,1,0.65,1038.0,Delhi Capitals
+154,2022,Kolkata Knight Riders,Chennai Super Kings,Mumbai,M.Chinnaswamy Stadium,150,111,17.7,5,39,13,6.27,18.0,Kolkata Knight Riders
+155,2023,Delhi Capitals,Rajasthan Royals,Bangalore,Rajiv Gandhi Intl. Cricket Stadium,195,50,9.1,0,145,65,5.49,13.38,Delhi Capitals
+156,2021,Delhi Capitals,Kolkata Knight Riders,Delhi,Mohali Stadium,163,152,16.7,6,11,19,9.1,3.47,Delhi Capitals
+157,2021,Chennai Super Kings,Kolkata Knight Riders,Delhi,Arun Jaitley Stadium,194,60,11.6,9,134,50,5.17,16.08,Chennai Super Kings
+158,2021,Mumbai Indians,Delhi Capitals,Mumbai,Eden Gardens,173,78,17.5,5,95,15,4.46,38.0,Delhi Capitals
+159,2023,Kolkata Knight Riders,Mumbai Indians,Chennai,Rajiv Gandhi Intl. Cricket Stadium,198,187,17.0,9,11,18,11.0,3.67,Kolkata Knight Riders
+160,2023,Rajasthan Royals,Mumbai Indians,Bangalore,Eden Gardens,179,138,15.2,1,41,28,9.08,8.79,Mumbai Indians
+161,2023,Chennai Super Kings,Royal Challengers Bangalore,Mumbai,M.Chinnaswamy Stadium,172,96,18.4,2,76,9,5.22,50.67,Chennai Super Kings
+162,2021,Punjab Kings,Royal Challengers Bangalore,Delhi,M.Chinnaswamy Stadium,193,12,7.0,5,181,78,1.71,13.92,Punjab Kings
+163,2023,Chennai Super Kings,Sunrisers Hyderabad,Bangalore,Rajiv Gandhi Intl. Cricket Stadium,182,111,10.8,6,71,55,10.28,7.75,Chennai Super Kings
+164,2022,Sunrisers Hyderabad,Chennai Super Kings,Hyderabad,Arun Jaitley Stadium,149,61,11.6,6,88,50,5.26,10.56,Sunrisers Hyderabad
+165,2023,Royal Challengers Bangalore,Punjab Kings,Hyderabad,Arun Jaitley Stadium,193,156,18.3,8,37,10,8.52,22.2,Punjab Kings
+166,2021,Sunrisers Hyderabad,Rajasthan Royals,Kolkata,Eden Gardens,157,132,19.0,6,25,6,6.95,25.0,Sunrisers Hyderabad
+167,2023,Punjab Kings,Rajasthan Royals,Chennai,Rajiv Gandhi Intl. Cricket Stadium,214,129,11.5,0,85,51,11.22,10.0,Rajasthan Royals
+168,2022,Punjab Kings,Delhi Capitals,Kolkata,Wankhede Stadium,160,93,13.5,1,67,39,6.89,10.31,Delhi Capitals
+169,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Hyderabad,Eden Gardens,187,102,10.7,2,85,55,9.53,9.27,Sunrisers Hyderabad
+170,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Chandigarh,Arun Jaitley Stadium,219,69,5.3,5,150,88,13.02,10.23,Sunrisers Hyderabad
+171,2023,Mumbai Indians,Rajasthan Royals,Mumbai,Arun Jaitley Stadium,182,169,11.6,3,13,50,14.57,1.56,Mumbai Indians
+172,2021,Kolkata Knight Riders,Mumbai Indians,Chennai,Eden Gardens,215,94,18.4,5,121,9,5.11,80.67,Mumbai Indians
+173,2022,Royal Challengers Bangalore,Punjab Kings,Chandigarh,Eden Gardens,203,199,9.2,7,4,64,21.63,0.38,Punjab Kings
+174,2022,Rajasthan Royals,Delhi Capitals,Chennai,Mohali Stadium,220,36,6.6,0,184,80,5.45,13.8,Delhi Capitals
+175,2021,Kolkata Knight Riders,Rajasthan Royals,Hyderabad,Arun Jaitley Stadium,176,166,16.4,5,10,21,10.12,2.86,Kolkata Knight Riders
+176,2021,Punjab Kings,Rajasthan Royals,Delhi,MA Chidambaram Stadium,177,92,7.1,3,85,77,12.96,6.62,Rajasthan Royals
+177,2021,Punjab Kings,Sunrisers Hyderabad,Kolkata,M.Chinnaswamy Stadium,200,35,17.7,3,165,13,1.98,76.15,Punjab Kings
+178,2021,Sunrisers Hyderabad,Delhi Capitals,Mumbai,Eden Gardens,145,21,17.3,3,124,16,1.21,46.5,Delhi Capitals
+179,2023,Mumbai Indians,Sunrisers Hyderabad,Chennai,Mohali Stadium,201,21,16.2,0,180,22,1.3,49.09,Sunrisers Hyderabad
+180,2022,Royal Challengers Bangalore,Mumbai Indians,Bangalore,M.Chinnaswamy Stadium,209,43,13.6,7,166,38,3.16,26.21,Mumbai Indians
+181,2022,Chennai Super Kings,Kolkata Knight Riders,Delhi,Eden Gardens,208,157,9.4,9,51,63,16.7,4.86,Kolkata Knight Riders
+182,2022,Kolkata Knight Riders,Delhi Capitals,Mumbai,Eden Gardens,179,124,6.1,9,55,83,20.33,3.98,Kolkata Knight Riders
+183,2023,Mumbai Indians,Chennai Super Kings,Mumbai,Rajiv Gandhi Intl. Cricket Stadium,200,11,11.3,7,189,52,0.97,21.81,Mumbai Indians
+184,2022,Kolkata Knight Riders,Chennai Super Kings,Chandigarh,Arun Jaitley Stadium,144,123,12.2,0,21,46,10.08,2.74,Chennai Super Kings
+185,2023,Mumbai Indians,Kolkata Knight Riders,Delhi,Eden Gardens,208,71,18.6,3,137,8,3.82,102.75,Mumbai Indians
+186,2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Kolkata,Rajiv Gandhi Intl. Cricket Stadium,157,6,16.5,3,151,21,0.36,43.14,Royal Challengers Bangalore
+187,2023,Sunrisers Hyderabad,Chennai Super Kings,Bangalore,Eden Gardens,187,84,5.2,4,103,88,16.15,7.02,Chennai Super Kings
+188,2021,Delhi Capitals,Kolkata Knight Riders,Bangalore,M.Chinnaswamy Stadium,182,56,12.3,8,126,46,4.55,16.43,Delhi Capitals
+189,2021,Sunrisers Hyderabad,Royal Challengers Bangalore,Chennai,Arun Jaitley Stadium,173,147,19.2,9,26,4,7.66,39.0,Sunrisers Hyderabad
+190,2022,Royal Challengers Bangalore,Punjab Kings,Chennai,Arun Jaitley Stadium,149,25,5.1,3,124,89,4.9,8.36,Royal Challengers Bangalore
+191,2022,Rajasthan Royals,Mumbai Indians,Bangalore,Arun Jaitley Stadium,180,137,15.8,10,43,25,8.67,10.32,Rajasthan Royals
+192,2021,Mumbai Indians,Rajasthan Royals,Kolkata,Mohali Stadium,157,130,8.2,6,27,70,15.85,2.31,Rajasthan Royals
+193,2022,Mumbai Indians,Punjab Kings,Delhi,Rajiv Gandhi Intl. Cricket Stadium,141,97,8.1,2,44,71,11.98,3.72,Mumbai Indians
+194,2023,Punjab Kings,Royal Challengers Bangalore,Chennai,Mohali Stadium,167,162,19.2,2,5,4,8.44,7.5,Royal Challengers Bangalore
+195,2022,Rajasthan Royals,Mumbai Indians,Mumbai,Mohali Stadium,190,168,8.8,8,22,67,19.09,1.97,Mumbai Indians
+196,2022,Royal Challengers Bangalore,Mumbai Indians,Chennai,MA Chidambaram Stadium,217,137,12.7,1,80,43,10.79,11.16,Royal Challengers Bangalore
+197,2023,Rajasthan Royals,Delhi Capitals,Mumbai,Mohali Stadium,145,144,7.4,0,1,75,19.46,0.08,Delhi Capitals
+198,2021,Kolkata Knight Riders,Delhi Capitals,Mumbai,Mohali Stadium,168,139,18.7,5,29,7,7.43,24.86,Delhi Capitals
+199,2022,Rajasthan Royals,Royal Challengers Bangalore,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,217,65,19.9,7,152,1,3.27,912.0,Royal Challengers Bangalore
+200,2022,Punjab Kings,Rajasthan Royals,Chennai,M.Chinnaswamy Stadium,145,38,6.6,9,107,80,5.76,8.03,Rajasthan Royals
+201,2021,Sunrisers Hyderabad,Chennai Super Kings,Delhi,Rajiv Gandhi Intl. Cricket Stadium,215,47,17.0,10,168,18,2.76,56.0,Sunrisers Hyderabad
+202,2021,Sunrisers Hyderabad,Rajasthan Royals,Chandigarh,MA Chidambaram Stadium,142,54,5.7,9,88,85,9.47,6.21,Sunrisers Hyderabad
+203,2023,Mumbai Indians,Punjab Kings,Bangalore,Mohali Stadium,175,32,18.5,4,143,9,1.73,95.33,Mumbai Indians
+204,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Chandigarh,Eden Gardens,202,80,7.7,2,122,73,10.39,10.03,Kolkata Knight Riders
+205,2022,Chennai Super Kings,Royal Challengers Bangalore,Bangalore,Wankhede Stadium,218,155,18.7,6,63,7,8.29,54.0,Chennai Super Kings
+206,2022,Royal Challengers Bangalore,Mumbai Indians,Hyderabad,Rajiv Gandhi Intl. Cricket Stadium,147,70,17.8,4,77,13,3.93,35.54,Royal Challengers Bangalore
+207,2021,Chennai Super Kings,Royal Challengers Bangalore,Chandigarh,Mohali Stadium,200,27,17.8,1,173,13,1.52,79.85,Chennai Super Kings
+208,2021,Mumbai Indians,Sunrisers Hyderabad,Chennai,Arun Jaitley Stadium,217,43,11.5,10,174,51,3.74,20.47,Sunrisers Hyderabad
+209,2023,Punjab Kings,Royal Challengers Bangalore,Bangalore,Mohali Stadium,201,18,14.6,3,183,32,1.23,34.31,Royal Challengers Bangalore
+210,2022,Delhi Capitals,Punjab Kings,Delhi,M.Chinnaswamy Stadium,220,49,6.8,3,171,79,7.21,12.99,Punjab Kings
+
